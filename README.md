@@ -15,3 +15,6 @@ On the otherhand, `noseSccreenDrawer` doesn't accurately track the location of n
 * Numpy
 * A webcam
 
+### Contribute:
+If you feel like adding something to this project or just found something wrong, please go ahead and make a PR or raise an issue. <br/>
+Any help from your side would be highly appreciated!
