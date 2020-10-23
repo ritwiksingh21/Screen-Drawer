@@ -18,3 +18,7 @@ On the otherhand, `noseSccreenDrawer.py` doesn't accurately track the location o
 ### Contribute:
 If you feel like adding something to this project or just found something wrong, please go ahead and make a PR or raise an issue. <br/>
 Any help from your side would be highly appreciated!
+
+### DEMO:
+##### ScreenDrawer:
+<img src="https://raw.githubusercontent.com/ritwiksingh21/Screen-Drawer/main/Images/oopens.png" title="screenDrawer" width="65%">
