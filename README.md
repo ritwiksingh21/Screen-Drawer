@@ -1,7 +1,7 @@
 # Screen-Drawer
 ## A simple program that lets you draw on screen using your web camera.
 
-### :art: Draw live with on your screen!
+### :art: Draw live on your screen!
 There are two separate programs. 
 1. `screenDrawer.py` : uses **color detection** to identify colored object and draw its motion path. 
 2. `noseScreenDrawer.py`: uses **Facial Recognition** to identify a face in camera frame and track the nose and color its path.<br/>
